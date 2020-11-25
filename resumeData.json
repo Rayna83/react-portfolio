@@ -1,0 +1,145 @@
+{
+  "main": {
+    "name": "Rayna Fleming",
+    "occupation": "Web Developer",
+    "description": "I possess more than 7 years of progressive technical customer support experience, and I look forward to working with you soon!",
+    "image": "Just Me.jpg",
+    "bio": "My name is Rayna, I'm a Full Stack Developer. Currently I work at Jack Henry and Associates as a Customer Support Representative III while expanding my knowledge of web development ",
+    "contactmessage": "Contact me and we can discuss all your web developement needs",
+    "email": "angelinacoder@gmail.com",
+    "phone": "+01 ‪(502) 410-2378‬",
+    "address": {
+      "city": "Cecilia",
+      "state": "Ky",
+      "zip": "42724"
+    },
+    "website": "https://rayna83.github.io/angelinaCoder/",
+    "resumedownload": "https://docs.google.com/document/d/11xoGr80BjCE0c-adY7ytwtgst_3CMObznvLElkjOetM/edit?usp=sharing",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/redchick",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://linkedin.com/in/arayna-fleming-91b351136/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/kyprincess2013/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Rayna83",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I have a passion for all things techonology. I have an adoration for creating enjoyable websites and learning new programing languages.",
+    "education": [
+      {
+        "school": "Elizabethtown Community and Technical College",
+        "degree": "Bachelor of Science-Justice Administration ",
+        "graduated": "",
+        "description": ""
+      },
+      {
+        "school": "Elizabethtown Community and Technical College",
+        "degree": "Associates in Applied Science-Criminal Justice ",
+        "graduated": "May 2010",
+        "description": ""
+      },
+      {
+        "school": "Udemy",
+        "degree": "Full Stack Web Developer Program",
+        "graduated": "November 2020",
+        "description": "Learned and built websites with multiple languages and frameworks like HTML, CSS, Javascript, Node, React, MongoDB to name a few."
+      }
+    ],
+    "work": [
+      {
+        "company": "Jack Henry and Associates",
+        "title": "Customer Support Representative III",
+        "years": "July 2020 - Present",
+        "description": "Maintain approx.. 95% quality rating while resolving an average of 600+ PC and mobile based support cases via phone or LiveChat. Mentor new associates to assist in acclimating them to the call center environment, understand the Service Level Standards, share knowledge on case issues, and provide constructive feedback on their calls. "
+      },
+      {
+        "company": "Geek Squad/Sitel",
+        "title": "Geek Squad Mentor (SME), Remote Agent, Computing Services",
+        "years": "June 2013 - May 2017",
+        "description": "High-performer and recognized as ‘Top 5%’ in successful resolution of software related issues for clients. Mentored 3 to 4 new agents during each training class for 2 weeks so they could navigate network security issues and troubleshoot Mobile and PC devices with Tier I and Tier II issues."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "20%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "Figma && Adobe XD",
+        "level": "45%"
+      },
+      {
+        "name": "HTML5",
+        "level": "95%"
+      },
+      {
+        "name": "Python",
+        "level": "30%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Tindog",
+        "category": "Doggie Dating App",
+        "image": "Tindog-pic.JPG",
+        "url": "https://rayna83.github.io/doggie_dating/"
+      },
+      {
+        "title": "Little Drummer Girl",
+        "category": "JS Drummer Kit",
+        "image": "Drummer-Girl.JPG",
+        "url": "https://rayna83.github.io/Little-Drummer-Girl/"
+      },
+      {
+        "title": "Dice Game",
+        "category": "Roll the dice built with JS",
+        "image": "dice.JPG",
+        "url": "https://rayna83.github.io/dice_game/"
+      },
+   
+      {
+        "title": "Amazon Clone",
+        "category": "Amazon Clone built with ReactJS",
+        "image": "amazon-clone.jpg",
+        "url": "https://clone-fbfa8.web.app/?fbclid=IwAR2eJ8HAzQHLx6xeu5hU8ZxodBtVdAqLMnLIIt30yVw-wwRlFUtKr76XDZg"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Rayna is a 5 star developer and is quick on her feet!",
+        "user": "Alia Graham"
+      },
+      {
+        "text": "Rayna is an amazing developer and I will contact her again for all my website needs!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
