@@ -3,11 +3,11 @@
     "name": "Rayna Fleming",
     "occupation": "Web Developer",
     "description": "I possess more than 7 years of progressive technical customer support experience, and I look forward to working with you soon!",
-    "image": "Just Me.jpg",
+    "image": "just-me.jpg",
     "bio": "My name is Rayna, I'm a Full Stack Developer. Currently I work at Jack Henry and Associates as a Customer Support Representative III while expanding my knowledge of web development ",
     "contactmessage": "Contact me and we can discuss all your web developement needs",
     "email": "angelinacoder@gmail.com",
-    "phone": "+01 ‪(502) 410-2378‬",
+    "phone": "‪(502) 410-2378‬",
     "address": {
       "city": "Cecilia",
       "state": "Ky",
@@ -42,7 +42,7 @@
     "skillmessage": "I have a passion for all things techonology. I have an adoration for creating enjoyable websites and learning new programing languages.",
     "education": [
       {
-        "school": "Elizabethtown Community and Technical College",
+        "school": "University of Louisville",
         "degree": "Bachelor of Science-Justice Administration ",
         "graduated": "",
         "description": ""
@@ -56,15 +56,15 @@
       {
         "school": "Udemy",
         "degree": "Full Stack Web Developer Program",
-        "graduated": "November 2020",
-        "description": "Learned and built websites with multiple languages and frameworks like HTML, CSS, Javascript, Node, React, MongoDB to name a few."
+        "graduated": "December 2020",
+        "description": "Learned and built websites with multiple languages and frameworks like HTML, CSS, Javascript, Node, React to name a few. As well as working with databases and APIs."
       }
     ],
     "work": [
       {
         "company": "Jack Henry and Associates",
         "title": "Customer Support Representative III",
-        "years": "July 2020 - Present",
+        "years": "July 2017 - Present",
         "description": "Maintain approx.. 95% quality rating while resolving an average of 600+ PC and mobile based support cases via phone or LiveChat. Mentor new associates to assist in acclimating them to the call center environment, understand the Service Level Standards, share knowledge on case issues, and provide constructive feedback on their calls. "
       },
       {
@@ -77,7 +77,7 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "20%"
+        "level": "40%"
       },
       {
         "name": "CSS",
@@ -89,15 +89,15 @@
       },
       {
         "name": "Figma && Adobe XD",
-        "level": "45%"
+        "level": "55%"
       },
       {
         "name": "HTML5",
         "level": "95%"
       },
       {
-        "name": "Python",
-        "level": "30%"
+        "name": "PHP",
+        "level": "55%"
       }
     ]
   },
@@ -121,7 +121,12 @@
         "image": "dice.JPG",
         "url": "https://rayna83.github.io/dice_game/"
       },
-   
+      {
+        "title": "The Fish House",
+        "category": "A website revamp",
+        "image": "dice.JPG",
+        "url": "https://rayna83.github.io/dice_game/"
+      },
       {
         "title": "Amazon Clone",
         "category": "Amazon Clone built with ReactJS",
